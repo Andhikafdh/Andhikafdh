@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andhika</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 📍 I'm based in Bandung, Indonesia **Bandung, Indonesia**
+- 📍 I'm based in **Bandung, Indonesia**
 
 - 👩🏻‍💻 I’m studying at **Bandung Institute Of Technology Majoring Informatics Engineering**
 
